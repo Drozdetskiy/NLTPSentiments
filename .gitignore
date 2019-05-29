@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+.DS_Store
+*.mo
+.coverage
+celerybeat*
+htmlcov/*
+venv/*
